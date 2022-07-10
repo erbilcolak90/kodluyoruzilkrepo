@@ -2,7 +2,8 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
 
-![gorsel] (https://www.hizliresim.com/vfo6pa2)
+![repository](https://user-images.githubusercontent.com/98216098/178159526-25633ad4-e150-4d8f-997a-d8b9b9a6d505.jpg)
+
 
 
 ## Installation
